@@ -1,0 +1,11 @@
+C:\Users\People\Desktop\years\air-ticket\bin\Debug\netcoreapp3.1\air-ticket.exe
+C:\Users\People\Desktop\years\air-ticket\bin\Debug\netcoreapp3.1\air-ticket.deps.json
+C:\Users\People\Desktop\years\air-ticket\bin\Debug\netcoreapp3.1\air-ticket.runtimeconfig.json
+C:\Users\People\Desktop\years\air-ticket\bin\Debug\netcoreapp3.1\air-ticket.runtimeconfig.dev.json
+C:\Users\People\Desktop\years\air-ticket\bin\Debug\netcoreapp3.1\air-ticket.dll
+C:\Users\People\Desktop\years\air-ticket\bin\Debug\netcoreapp3.1\air-ticket.pdb
+C:\Users\People\Desktop\years\air-ticket\obj\Debug\netcoreapp3.1\air-ticket.csprojAssemblyReference.cache
+C:\Users\People\Desktop\years\air-ticket\obj\Debug\netcoreapp3.1\air-ticket.AssemblyInfoInputs.cache
+C:\Users\People\Desktop\years\air-ticket\obj\Debug\netcoreapp3.1\air-ticket.AssemblyInfo.cs
+C:\Users\People\Desktop\years\air-ticket\obj\Debug\netcoreapp3.1\air-ticket.dll
+C:\Users\People\Desktop\years\air-ticket\obj\Debug\netcoreapp3.1\air-ticket.pdb

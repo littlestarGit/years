@@ -1,0 +1,10 @@
+C:\Users\People\Desktop\years\time\bin\Debug\netcoreapp3.1\time.exe
+C:\Users\People\Desktop\years\time\bin\Debug\netcoreapp3.1\time.deps.json
+C:\Users\People\Desktop\years\time\bin\Debug\netcoreapp3.1\time.runtimeconfig.json
+C:\Users\People\Desktop\years\time\bin\Debug\netcoreapp3.1\time.runtimeconfig.dev.json
+C:\Users\People\Desktop\years\time\bin\Debug\netcoreapp3.1\time.dll
+C:\Users\People\Desktop\years\time\bin\Debug\netcoreapp3.1\time.pdb
+C:\Users\People\Desktop\years\time\obj\Debug\netcoreapp3.1\time.AssemblyInfoInputs.cache
+C:\Users\People\Desktop\years\time\obj\Debug\netcoreapp3.1\time.AssemblyInfo.cs
+C:\Users\People\Desktop\years\time\obj\Debug\netcoreapp3.1\time.dll
+C:\Users\People\Desktop\years\time\obj\Debug\netcoreapp3.1\time.pdb

@@ -1,0 +1,11 @@
+C:\Users\People\Desktop\years\weight\bin\Debug\netcoreapp3.1\weight.exe
+C:\Users\People\Desktop\years\weight\bin\Debug\netcoreapp3.1\weight.deps.json
+C:\Users\People\Desktop\years\weight\bin\Debug\netcoreapp3.1\weight.runtimeconfig.json
+C:\Users\People\Desktop\years\weight\bin\Debug\netcoreapp3.1\weight.runtimeconfig.dev.json
+C:\Users\People\Desktop\years\weight\bin\Debug\netcoreapp3.1\weight.dll
+C:\Users\People\Desktop\years\weight\bin\Debug\netcoreapp3.1\weight.pdb
+C:\Users\People\Desktop\years\weight\obj\Debug\netcoreapp3.1\weight.csprojAssemblyReference.cache
+C:\Users\People\Desktop\years\weight\obj\Debug\netcoreapp3.1\weight.AssemblyInfoInputs.cache
+C:\Users\People\Desktop\years\weight\obj\Debug\netcoreapp3.1\weight.AssemblyInfo.cs
+C:\Users\People\Desktop\years\weight\obj\Debug\netcoreapp3.1\weight.dll
+C:\Users\People\Desktop\years\weight\obj\Debug\netcoreapp3.1\weight.pdb

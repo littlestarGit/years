@@ -1,0 +1,11 @@
+C:\Users\People\Desktop\years\jm\bin\Debug\netcoreapp3.1\jm.exe
+C:\Users\People\Desktop\years\jm\bin\Debug\netcoreapp3.1\jm.deps.json
+C:\Users\People\Desktop\years\jm\bin\Debug\netcoreapp3.1\jm.runtimeconfig.json
+C:\Users\People\Desktop\years\jm\bin\Debug\netcoreapp3.1\jm.runtimeconfig.dev.json
+C:\Users\People\Desktop\years\jm\bin\Debug\netcoreapp3.1\jm.dll
+C:\Users\People\Desktop\years\jm\bin\Debug\netcoreapp3.1\jm.pdb
+C:\Users\People\Desktop\years\jm\obj\Debug\netcoreapp3.1\jm.csprojAssemblyReference.cache
+C:\Users\People\Desktop\years\jm\obj\Debug\netcoreapp3.1\jm.AssemblyInfoInputs.cache
+C:\Users\People\Desktop\years\jm\obj\Debug\netcoreapp3.1\jm.AssemblyInfo.cs
+C:\Users\People\Desktop\years\jm\obj\Debug\netcoreapp3.1\jm.dll
+C:\Users\People\Desktop\years\jm\obj\Debug\netcoreapp3.1\jm.pdb

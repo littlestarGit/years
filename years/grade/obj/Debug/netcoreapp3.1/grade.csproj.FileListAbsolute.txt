@@ -1,0 +1,10 @@
+C:\Users\People\Desktop\years\grade\bin\Debug\netcoreapp3.1\grade.exe
+C:\Users\People\Desktop\years\grade\bin\Debug\netcoreapp3.1\grade.deps.json
+C:\Users\People\Desktop\years\grade\bin\Debug\netcoreapp3.1\grade.runtimeconfig.json
+C:\Users\People\Desktop\years\grade\bin\Debug\netcoreapp3.1\grade.runtimeconfig.dev.json
+C:\Users\People\Desktop\years\grade\bin\Debug\netcoreapp3.1\grade.dll
+C:\Users\People\Desktop\years\grade\bin\Debug\netcoreapp3.1\grade.pdb
+C:\Users\People\Desktop\years\grade\obj\Debug\netcoreapp3.1\grade.AssemblyInfoInputs.cache
+C:\Users\People\Desktop\years\grade\obj\Debug\netcoreapp3.1\grade.AssemblyInfo.cs
+C:\Users\People\Desktop\years\grade\obj\Debug\netcoreapp3.1\grade.dll
+C:\Users\People\Desktop\years\grade\obj\Debug\netcoreapp3.1\grade.pdb

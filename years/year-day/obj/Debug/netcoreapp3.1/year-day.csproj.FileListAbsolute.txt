@@ -1,0 +1,11 @@
+C:\Users\People\Desktop\years\year-day\bin\Debug\netcoreapp3.1\year-day.exe
+C:\Users\People\Desktop\years\year-day\bin\Debug\netcoreapp3.1\year-day.deps.json
+C:\Users\People\Desktop\years\year-day\bin\Debug\netcoreapp3.1\year-day.runtimeconfig.json
+C:\Users\People\Desktop\years\year-day\bin\Debug\netcoreapp3.1\year-day.runtimeconfig.dev.json
+C:\Users\People\Desktop\years\year-day\bin\Debug\netcoreapp3.1\year-day.dll
+C:\Users\People\Desktop\years\year-day\bin\Debug\netcoreapp3.1\year-day.pdb
+C:\Users\People\Desktop\years\year-day\obj\Debug\netcoreapp3.1\year-day.csprojAssemblyReference.cache
+C:\Users\People\Desktop\years\year-day\obj\Debug\netcoreapp3.1\year-day.AssemblyInfoInputs.cache
+C:\Users\People\Desktop\years\year-day\obj\Debug\netcoreapp3.1\year-day.AssemblyInfo.cs
+C:\Users\People\Desktop\years\year-day\obj\Debug\netcoreapp3.1\year-day.dll
+C:\Users\People\Desktop\years\year-day\obj\Debug\netcoreapp3.1\year-day.pdb
